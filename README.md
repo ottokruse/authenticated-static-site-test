@@ -1,0 +1,1 @@
+# authenticated-static-site
